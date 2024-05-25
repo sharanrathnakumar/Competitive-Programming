@@ -1,0 +1,35 @@
+BactTracking
+-----------
+1. Trapping Rain Water
+2. Kadens Algorithm
+3. Count pair with the given sum.
+4. Subarray with sum zero
+5. Permutation of a given string
+6. N-Queen problem
+7. Rat in a maze problem
+
+
+Greedy
+------
+1. Binary Search - Upper bound and lower bound
+2. Majority Element
+3. Multiply two string
+4. Maximize toys
+5. N meetings in one room
+6. Multiplication of two strings
+7. Find the median of two strings
+
+Sliding Window
+--------------
+1. Count occurance of Anargams
+2. Find indexes of subarray with the given sum
+3. Shortest source to destination path
+4. Steps by Knight
+5. NUmber of distinct Islands
+6. Bipartite Graph
+7. Detect cycle in a undirected graph
+8. Word search
+
+Exercise:
+1. Find the sqroot of the number -> Binary search
+2. Max sum of submatrix
