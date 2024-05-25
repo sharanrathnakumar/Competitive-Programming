@@ -1,7 +1,7 @@
 # Competitive Programming
 
 The Journey of a beginner to the world of Competitive programming.
-Understanding each data structures and algorithm and solving problems.
+Understanding each data structures, algorithm and problem solving.
 
 ## Acknowledgements
 
