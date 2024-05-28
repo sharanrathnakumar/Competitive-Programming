@@ -25,7 +25,7 @@ Sliding Window
 2. Find indexes of subarray with the given sum
 3. Shortest source to destination path
 4. Steps by Knight
-5. NUmber of distinct Islands
+5. Number of distinct Islands
 6. Bipartite Graph
 7. Detect cycle in a undirected graph
 8. Word search
